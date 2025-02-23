@@ -1,68 +1,71 @@
-[+91-8080067806](+918080067806) 
-&nbsp;&nbsp;&nbsp;&nbsp;
-[yashrajgosavi2580@gmail.com](mailto:yashrajgosavi2580@gmail.com)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[linkedin/yashrajgosavi](https://www.linkedin.com/in/yashrajgosavi)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[github/yashrajgosavi](https://github.com/yashrajgosavi)
+[📞 +91-8080067806](tel:+918080067806)  
+[📧 yashrajgosavi2580@gmail.com](mailto:yashrajgosavi2580@gmail.com)  
+[🔗 LinkedIn](https://www.linkedin.com/in/yashrajgosavi)  
+[💻 GitHub](https://github.com/yashrajgosavi)  
 
-## Education
+---
 
-**Bachelor of Business Administrations (Computer Application)** <br>
-Indira College of Commerce and Science, Pune <br>
-Passing Year: Oct 2022 <br>
+## 🎓 Education
 
-**Master of Computer Applications (M.C.A) (Science)** <br>
-Savitribai Phule Pune University | Computer Science Department, Pune <br>
-Passing Year: 2024 <br>
+### **Master of Computer Applications (M.C.A) (Science)**  
+**Savitribai Phule Pune University | Computer Science Department, Pune**  
+📅 Passing Year: 2024  
 
-## Technical Skills
+### **Bachelor of Business Administration (Computer Application)**  
+**Indira College of Commerce and Science, Pune**  
+📅 Passing Year: 2022  
 
-### Programing Languages:
+---
+
+## 💻 Technical Skills  
+
+### **Programming Languages**  
 <pre>
-• Java                  • JavaScript        • python        
-• PHP                   • gofer
+• Java      • JavaScript        • python        • PHP
+• gofer
+</pre> 
+
+### **Frameworks**  
+<pre>
+• React     • React Native      • Expo      • Express js
 </pre>
 
-### Frameworks:
+### **Cloud & DevOps**  
 <pre>
-• React                 • React Native      • Expo          
-• Express js
+• CI/CD Pipelines       • Automation        • Azure Bicep       • Terraform
+• GitHub                • Helm              • argocd
 </pre>
 
-### Cloud Skills:
+### **Concepts**  
 <pre>
-• CI/CD Pipelines       • Automation        • Azure Bicep           
-• Terraform             • GitHub            • Helm
-• argocd
-</pre>
-
-### Concepts:
-<pre>
-• Kubernates            • Cloud Computing   • SOLID principles
+• Kubernates        • Cloud Computing       • SOLID principles
 • Object Oriented Programming
 </pre>
 
-### Professional Experience:
-AutomationHQ Inc. <br>
-Software Developer & DevOps Intern (March 2024 - March 2025)
-- Worked with Helm charts, Terraform, Kubernetes, GitHub Actions, and Azure Bicep
-- Maintained GitHub pipelines, Helm charts, and Kubernetes clusters
-- Deployed multiple container apps using Azure Bicep
+---
 
-### Project:
+## 🏢 Professional Experience  
 
-1. [bicepBrew](https://github.com/yashrajgosavi/bicepBrew) | Built using: [Bicep](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview)
+### **AutomationHQ Inc.**  
+📌 **Software Developer & DevOps Intern** *(March 2024 - March 2025)*  
+- Worked with Helm charts, Terraform, Kubernetes, GitHub Actions, and Azure Bicep.  
+- Maintained GitHub pipelines, Helm charts, and Kubernetes clusters.  
+- Deployed multiple container apps using Azure Bicep.  
 
-    - bicepBrew is a project designed to help you develop Azure Bicep skills through practical exercises and recipes. 
-    - This guide walks you through the essential steps to set up a Bicep development environment and configure CI/CD using GitHub Actions.
+---
 
-2. [Cal-Get](https://github.com/yashrajgosavi/Cal-Get) | Built using: [Expo](https://expo.dev/)
-    - Created Web App, Android App and IOS App from scratch.
-    - Added custom themes, text component and spacer component.
-    - Login and Signup Screens with proper regex and interactive animations
+## 🚀 Projects  
 
-3. [Cal_Get_server](https://github.com/yashrajgosavi/Cal_Get_server) | Built using: [Express.js](https://expressjs.com/)
-    - Created signup and sign in routes from scratch.
-    - Used bcrypt to hash the password.
-    - Used JWT token to create login tokens when sign in is successful.
+### [🔹 bicepBrew](https://github.com/yashrajgosavi/bicepBrew) | **Built using:** [Bicep](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview)  
+- A project designed to help developers learn Azure Bicep through practical exercises and recipes.  
+- Includes setup guides, Bicep development environment configuration, and CI/CD using GitHub Actions.  
+
+### [🔹 Cal-Get](https://github.com/yashrajgosavi/Cal-Get) | **Built using:** [Expo](https://expo.dev/)  
+- Developed a Web, Android, and iOS app from scratch.  
+- Implemented custom themes, reusable components, and interactive animations.  
+- Designed login and signup screens with proper regex validation.  
+
+### [🔹 Cal_Get_server](https://github.com/yashrajgosavi/Cal_Get_server) | **Built using:** [Express.js](https://expressjs.com/)  
+- Implemented user authentication with signup and login routes.  
+- Used bcrypt for password hashing.  
+- Integrated JWT tokens for secure authentication.  
