@@ -1,70 +1,70 @@
-# Getting Started with Create React App
+# Yashraj Gosavi
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[+91-8080067806](+918080067806) 
+&nbsp;&nbsp;&nbsp;&nbsp;
+[yashrajgosavi2580@gmail.com](mailto:yashrajgosavi2580@gmail.com)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[linkedin/yashrajgosavi](https://www.linkedin.com/in/yashrajgosavi)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[github/yashrajgosavi](https://github.com/yashrajgosavi)
 
-## Available Scripts
+## Education
 
-In the project directory, you can run:
+**Bachelor of Business Administrations (Computer Application)** <br>
+Indira College of Commerce and Science, Pune <br>
+Passing Year: Oct 2022 <br>
 
-### `yarn start`
+**Master of Computer Applications (M.C.A) (Science)** <br>
+Savitribai Phule Pune University | Computer Science Department, Pune <br>
+Passing Year: 2024 <br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Technical Skills
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Programing Languages:
+<pre>
+• Java                  • JavaScript        • python        
+• PHP                   • gofer
+</pre>
 
-### `yarn test`
+### Frameworks:
+<pre>
+• React                 • React Native      • Expo          
+• Express js
+</pre>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Cloud Skills:
+<pre>
+• CI/CD Pipelines       • Automation        • Azure Bicep           
+• Terraform             • GitHub            • Helm
+• argocd
+</pre>
 
-### `yarn build`
+### Concepts:
+<pre>
+• Kubernates            • Cloud Computing   • SOLID principles
+• Object Oriented Programming
+</pre>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Professional Experience:
+AutomationHQ Inc. <br>
+Software Developer & DevOps Intern (March 2024 - March 2025)
+- Worked with Helm charts, Terraform, Kubernetes, GitHub Actions, and Azure Bicep
+- Maintained GitHub pipelines, Helm charts, and Kubernetes clusters
+- Deployed multiple container apps using Azure Bicep
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Project:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. [bicepBrew](https://github.com/yashrajgosavi/bicepBrew) | Built using: [Bicep](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview)
 
-### `yarn eject`
+    - bicepBrew is a project designed to help you develop Azure Bicep skills through practical exercises and recipes. 
+    - This guide walks you through the essential steps to set up a Bicep development environment and configure CI/CD using GitHub Actions.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+2. [Cal-Get](https://github.com/yashrajgosavi/Cal-Get) | Built using: [Expo](https://expo.dev/)
+    - Created Web App, Android App and IOS App from scratch.
+    - Added custom themes, text component and spacer component.
+    - Login and Signup Screens with proper regex and interactive animations
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+3. [Cal_Get_server](https://github.com/yashrajgosavi/Cal_Get_server) | Built using: [Express.js](https://expressjs.com/)
+    - Created signup and sign in routes from scratch.
+    - Used bcrypt to hash the password.
+    - Used JWT token to create login tokens when sign in is successful.
